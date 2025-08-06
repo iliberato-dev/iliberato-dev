@@ -1,55 +1,59 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/118570733?s=400&u=2270e2678be9fe83a0c31e3567074567f712772a&v=4" width="300" alt="Banner"/>
-</p>
-
-<h1 align="center">Olá 👋, eu sou Isaque Liberato</h1>
-<h3 align="center">Um dev apaixonado por transformar ideias em realidade.</h3>
-
----
-
-### 👨‍💻 Sobre Mim
-
-<p>
-  - 🔭 Atualmente estou trabalhando como <strong>Prof de Programação Web</strong>.
+  <img src="https://avatars.githubusercontent.com/u/118570733?s=400&u=2270e2678be9fe83a0c31e3567074567f712772a&v=4" width="150" alt="Foto de Perfil"/>
+ </p>
+ 
+ <h1 align="center">Olá 👋, eu sou Isaque Liberato</h1>
+ <h3 align="center">Desenvolvedor Web | Professor de Programação | Entusiasta de Novas Tecnologias</h3>
+ 
+ ---
+ 
+ ### 👨‍💻 Sobre Mim
+ 
+ <p>
+  - 🔭 Atualmente lecionando e explorando as últimas tendências como <strong>React Hooks, Next.js e Serverless Functions</strong>.
   <br>
-  - 🌱 Estou aprendendo Sobre desenvolvimento em geral, <strong>porém ná area de desenvolvimento Web</strong>.
+  - 🌱 Aprofundando conhecimentos em <strong>Arquitetura de Microsserviços e GraphQL</strong>.
   <br>
-  - 👯 Procuro colaborar em... <strong>projetos de código aberto relacionados a desenvolvimento web</strong>.
+  - 👯 Aberto a colaborações em <strong>projetos inovadores de Front-end e Back-end com foco em escalabilidade e performance</strong>.
   <br>
-  - 🤔 Busco ajuda com... <strong>temas da atualidade em desenvolvimento Web</strong>.
+  - 🤔 Buscando soluções para desafios em <strong>otimização de Progressive Web Apps (PWAs) e Continuous Integration/Continuous Deployment (CI/CD)</strong>.
   <br>
-  - 💬 Me pergunte sobre... <strong>React, Node.js, e desenvolvimento web em geral</strong>.
+  - 💬 Adoro discutir sobre <strong>JavaScript moderno, melhores práticas de código e o futuro do desenvolvimento web</strong>.
   <br>
-  - 📫 Como me encontrar: <strong>isaque.cedesp@gmail.com]</strong>
-</p>
-
----
-
-### 🚀 Minhas Habilidades
-
-<p align="left">
+  - 📫 Contate-me em: <a href="mailto:isaque.cedesp@gmail.com">isaque.cedesp@gmail.com</a>
+ </p>
+ 
+ ---
+ 
+ ### 🛠️ Tecnologias que Utilizo
+ 
+ <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git,github,vercel,netlify,figma&perline=6" />
   </a>
-</p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iliberato-dev&show_icons=true&theme=tokyonight&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliberato-dev&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
-</p>
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=iliberato-dev&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Conecte-se Comigo
-
-<p align="left">
-<a href="https://linkedin.com/in/SEU-LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu Linkedin" height="30" width="40" /></a>
-<a href="https://seu-blog.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Seu Blog" height="30" width="40" /></a>
-</p>
+ </p>
+ 
+ ---
+ 
+ ### 📊 Estatísticas do Meu GitHub
+ 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iliberato-dev&show_icons=true&theme=dark&rank_icon=github" alt="Estatísticas do GitHub" />
+ </p>
+ 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliberato-dev&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+ </p>
+ 
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iliberato-dev&theme=dark" alt="GitHub Streak" />
+ </p>
+ 
+ ---
+ 
+ ### 🔗 Conecte-se Comigo
+ 
+ <p align="left">
+ <a href="https://www.linkedin.com/in/isaque-liberato-b552b51a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" height="30" width="40" /></a>
+ <a href="https://github.com/iliberato-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+ </p>
