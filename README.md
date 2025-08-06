@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://photos.fife.usercontent.google.com/pw/AP1GczMHba9dJLmknPsWlyYvEHQX7aTkDY7BuUBMdEotPP0kEWCd8r2X1QoL=w620-h827-s-no-gm?authuser=0" alt="Banner" width="400"/>
+  <img src="https://photos.app.goo.gl/DLZFUtpPbeYt9q3v7" alt="Banner" width="400"/>
 </p>
 
 <h1 align="center">Olá 👋, eu sou Isaque Liberato</h1>
