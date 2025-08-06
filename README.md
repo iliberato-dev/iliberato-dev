@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER" alt="Banner" width="800"/>
+  <img src="[URL_DA_SUA_IMAGEM_DE_BANNER](https://avatars.githubusercontent.com/u/118570733?s=96&v=4)" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">Olá 👋, eu sou [Seu Nome]</h1>
