@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/118570733?s=400&u=2270e2678be9fe83a0c31e3567074567f712772a&v=4" alt="Banner"  style="border-radius: 50px;width: 300px;"/>
+  <img src="https://avatars.githubusercontent.com/u/118570733?s=400&u=2270e2678be9fe83a0c31e3567074567f712772a&v=4" alt="Banner"/>
 </p>
 
 <h1 align="center">Olá 👋, eu sou Isaque Liberato</h1>
